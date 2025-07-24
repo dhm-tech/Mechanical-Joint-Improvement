@@ -4,7 +4,7 @@ This is a 3D mechanical joint improvement project designed using [Onshape](https
 
 ## 📂 Files Included
 - `Studio.step` → Exported 3D CAD file
-- `Assembly.png` → Preview of the design
+- `Assembly.pdf` → Preview of the design
 
 ## 🌐 Live View on Onshape
 You can view the 3D model directly via Onshape:  
